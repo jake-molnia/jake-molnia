@@ -1,6 +1,4 @@
-## Hi! 
-
-I am Jake, I love solving difficult problems and am a aspiring software engineer and DL researcher!
+Just here for the ride!
 
 ![Isometric commit calendar (Full year)](https://github.com/jake-molnia/jake-molnia/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
